@@ -1,7 +1,7 @@
 # Enkapsulasi
-![2022-04-15 (1)](https://user-images.githubusercontent.com/101535193/163584361-b704bf88-43aa-4486-b736-850fdc892f23.png)
-![2022-04-15 (2)](https://user-images.githubusercontent.com/101535193/163584396-3f2ed0d6-297e-46ff-8ed4-842873b032c8.png)
-![2022-04-15 (3)](https://user-images.githubusercontent.com/101535193/163584403-cc6325ed-2332-4f37-987d-380e0882e522.png)
-![2022-04-15 (4)](https://user-images.githubusercontent.com/101535193/163584422-fea82d18-0567-4418-bb8a-b07620d8a1db.png)
-![2022-04-15 (5)](https://user-images.githubusercontent.com/101535193/163584429-90a42cd6-eb27-4174-b0b7-7c13a60a17c5.png)
-![2022-04-15](https://user-images.githubusercontent.com/101535193/163584436-5f026c7a-e50b-4f54-99ba-cdcdada8a51c.png)
+![2022-04-15 (9)](https://user-images.githubusercontent.com/101535193/163588844-b1a22916-d138-4ea1-8b3a-ba6e115870eb.png)
+![2022-04-15 (11)](https://user-images.githubusercontent.com/101535193/163588848-aa4c334c-3025-4ec0-aa95-0b94868a394a.png)
+![2022-04-15 (12)](https://user-images.githubusercontent.com/101535193/163588856-32d81ee9-710e-4de3-9c8b-42f76cbe2a91.png)
+![2022-04-15 (13)](https://user-images.githubusercontent.com/101535193/163588863-5cc07e46-f999-491c-ae36-0ee38150e2d3.png)
+![2022-04-15 (14)](https://user-images.githubusercontent.com/101535193/163588866-23fec19b-c973-4112-ae96-f4f47c68b146.png)
+![2022-04-15(15)](https://user-images.githubusercontent.com/101535193/163589321-76bef6f2-fd3b-4bfb-861b-11fdff29212d.jpeg)
